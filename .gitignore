@@ -1,5 +1,5 @@
 *.uvopt
-*.uvproj
+# *.uvproj
 *.A51
 *.uvgui.loq
 Listings/
