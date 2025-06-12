@@ -1,0 +1,6 @@
+*.uvopt
+*.uvproj
+*.A51
+*.uvgui.loq
+Listings/
+Objects/
